@@ -1,0 +1,84 @@
+1
+00:00:05,640 --> 00:00:11,380
+SPEAKER_01: Paul, you're late again.
+
+2
+00:00:11,700 --> 00:00:13,840
+SPEAKER_00: Sorry, I never get up before 8.45.
+
+3
+00:00:14,160 --> 00:00:16,180
+SPEAKER_01: 8.45? That's late.
+
+4
+00:00:16,640 --> 00:00:17,540
+SPEAKER_00: What time do you get up?
+
+5
+00:00:17,740 --> 00:00:18,500
+SPEAKER_00: 5 a.m.
+
+6
+00:00:18,820 --> 00:00:22,480
+SPEAKER_00: 5 a.m.? That's early. What do you do in the morning?
+
+7
+00:00:22,960 --> 00:00:27,060
+SPEAKER_01: Well, after I get up, I usually make breakfast,
+
+8
+00:00:27,940 --> 00:00:30,720
+SPEAKER_01: take out the garbage, do the laundry.
+
+9
+00:00:31,060 --> 00:00:31,760
+SPEAKER_00: The laundry?
+
+10
+00:00:32,340 --> 00:00:35,700
+SPEAKER_01: Yes. Then I read the newspaper, check my email.
+
+11
+00:00:36,280 --> 00:00:37,280
+SPEAKER_01: Sometimes I take a nap.
+
+12
+00:00:37,660 --> 00:00:38,960
+SPEAKER_00: You take a nap in the morning?
+
+13
+00:00:39,460 --> 00:00:40,540
+SPEAKER_01: Just 15 minutes.
+
+14
+00:00:41,300 --> 00:00:44,800
+SPEAKER_01: On Monday, Wednesday, and Friday I exercise,
+
+15
+00:00:45,100 --> 00:00:46,860
+SPEAKER_01: and on the other days I clean the house.
+
+16
+00:00:47,440 --> 00:00:51,500
+SPEAKER_01: Then I take a shower, get dressed, put on my makeup, and go to work.
+
+17
+00:00:52,340 --> 00:00:54,680
+SPEAKER_00: Wow. You never sleep late?
+
+18
+00:00:55,240 --> 00:00:57,060
+SPEAKER_00: On the weekends, I sleep till 6.
+
+19
+00:00:57,800 --> 00:01:01,380
+SPEAKER_00: That's really good. You do laundry in the morning?
+
+20
+00:01:01,900 --> 00:01:04,640
+SPEAKER_01: And the evening. Why? When do you do the laundry?
+
+21
+00:01:05,860 --> 00:01:08,940
+SPEAKER_00: Usually in March. And September.
+
